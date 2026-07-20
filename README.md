@@ -1,4 +1,4 @@
-# monitor-bluetooth-data-on-com-port-using-python
+# monitor-bluetooth-data-python-bleak
 Connect your Bluetooth/BLE device to your PC and run this python script to see your sensor data. 
 
 This Python utility allows you to connect to a Bluetooth Low Energy (BLE) device and monitor live sensor data over GATT. It is especially useful when you need to validate or debug a Bluetooth application. To adapt it for your application, simply update the device name and UUIDs.
